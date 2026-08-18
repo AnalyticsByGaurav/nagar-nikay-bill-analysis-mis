@@ -1,4 +1,4 @@
-# Nagar-Nikay-Nill-Analysis-mis
+# Nagar-Nikay-Bill-Analysis-mis
 Nagar Nikay Electricity Bill Analysis &amp; MIS Reporting using Excel, SQL and Power Query.
 Excel | SQL | Power Query | Google Sheets | MIS Reporting
 
